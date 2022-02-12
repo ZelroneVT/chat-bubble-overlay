@@ -1,0 +1,11 @@
+{
+  "name": "chat-bubble-overlay",
+  "version": "1.0.0",
+  "description": "An overlay application that generates chat bubbles from twitch channel filtered by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZelroneVT",
+  "license": "ISC"
+}
